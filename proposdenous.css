@@ -1,0 +1,59 @@
+.body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #3d626c;
+  font-weight: bolder;
+  font-style: oblique;
+  font-family: "Rubik", sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.header {
+  background-color: #0b3c1d;
+  color: #fff;
+  text-align: center;
+  padding: 1em 0;
+}
+
+section {
+  max-width: 800px;
+  margin: 20px auto;
+  overflow: hidden;
+}
+section img {
+  float: left;
+  margin-right: 20px;
+  max-width: 100%;
+  height: auto;
+}
+
+.section p {
+  text-align: justify;
+}
+.Texte {
+  
+  width: 60%; /* Ajustez la largeur selon vos besoins */
+  margin: 1.5%; /* Optionnel : pour espacer les divs */
+  vertical-align: top; /* Pour aligner les boîtes en haut */
+}
+.Texte2 {
+  width: 60%; /* Ajustez la largeur selon vos besoins */
+  margin: 1.5%; /* Optionnel : pour espacer les divs */
+  vertical-align: top; /* Pour aligner les boîtes en haut */
+}
+.Texte3 {
+  width: 60%; /* Ajustez la largeur selon vos besoins */
+  margin: 1.5%; /* Optionnel : pour espacer les divs */
+  vertical-align: top; /* Pour aligner les boîtes en haut */
+}
+.Texte4 {
+  width: 60%; /* Ajustez la largeur selon vos besoins */
+  margin: 1.5%; /* Optionnel : pour espacer les divs */
+  vertical-align: top; /* Pour aligner les boîtes en haut */
+}
+.container {
+  margin-top: 100px;
+}

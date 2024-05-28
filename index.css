@@ -1,0 +1,41 @@
+
+
+
+.inline-card1 {
+    display: inline-block;
+    width: 60%; /* Ajustez la largeur selon vos besoins */
+    margin: 1.5%; /* Optionnel : pour espacer les divs */
+    vertical-align: top; /* Pour aligner les boîtes en haut */
+    margin-top:100px;
+
+  }
+  .inline-card2 {
+    display: inline-block;
+    width: 60%; /* Ajustez la largeur selon vos besoins */
+    margin: 1.5%; /* Optionnel : pour espacer les divs */
+    vertical-align: top; /* Pour aligner les boîtes en haut */
+    margin-top:100px;
+
+  }
+  .card-title1 {
+    margin-top:40px;
+  }
+  .card-title2 {
+    margin-top:40px;
+  }
+  .card-title3 {
+    margin-top:40px;
+  }
+  .btn-outline-success2{
+    display: inline-block;
+    width: 60%; /* Ajustez la largeur selon vos besoins */
+   
+  }
+  .inline-card3 {
+    display: inline-block;
+    width: 60%; /* Ajustez la largeur selon vos besoins */
+    margin: 1.5%; /* Optionnel : pour espacer les divs */
+    vertical-align: top; /* Pour aligner les boîtes en haut */
+    margin-top:100px;
+
+  }
